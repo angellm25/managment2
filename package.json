@@ -2,7 +2,7 @@
   "name": "management-typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "start": "node./dist/index.js",
     "postintall": "npm run tsc",
